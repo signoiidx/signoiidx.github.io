@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/signoiidx
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://signoiidx.github.io
+  * I am signoiidx (https://keybase.io/signoiidx) on keybase.
+  * I have a public key ASAIxow_c83OljqAUW9aTTMwEJ9ZEQ50ht1mVWpqQqNqcAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120f8d59e455419f8626026bccc9010d3c8af4cb6a075d42c29cf287b484bb3565b0a",
+      "host": "keybase.io",
+      "kid": "012008c68c3f73cdce963a80516f5a4d3330109f59110e7486dd66556a6a42a36a700a",
+      "uid": "4eb27d53eeda434396175a3af9bf7d19",
+      "username": "signoiidx"
+    },
+    "merkle_root": {
+      "ctime": 1555387107,
+      "hash": "445590f85dac61869ceced4cf434c7b59095723b05e64db7a6fb6338db90bdd295b72dba07150a41e9579ca92ace09436b8923e652f5b5a771b6ad2cc50eb90c",
+      "hash_meta": "4baef6500612caf50b79064fc9e9ae56cd50767885aaabe59dcde54eb30c4520",
+      "seqno": 5178012
+    },
+    "service": {
+      "entropy": "fMnY5Nqn7bG/6+dvR8RAi/6C",
+      "hostname": "signoiidx.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "3.2.2"
+  },
+  "ctime": 1555387145,
+  "expire_in": 504576000,
+  "prev": "68db3df3c9ad6f62818bd8b7a97acc3d148e4867c7943725cb94f9e19137ac4c",
+  "seqno": 19,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgCMaMP3PNzpY6gFFvWk0zMBCfWREOdIbdZlVqakKjanAKp3BheWxvYWTESpcCE8QgaNs988mtb2KBi9i3qXrMPRSOSGfHlDcly5T54ZE3rEzEII5GB3Ru6ZWUv62iRBbq1kp+IcWCEMYy8tED5tyT/T9zAgHCo3NpZ8RAqWbO5qjwTNhs1JUUN+UPbTidSep3RdlsQkwi4JHZxDoZghBQsLxTWqFDke+Zk0q+qa6MwqvrA+pZIkp/4CZYD6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIKn3o5FZB8GNnXS5uE2X2RsZtYk6thddcluagFA9VWV/o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/signoiidx
+
+==================================================================
